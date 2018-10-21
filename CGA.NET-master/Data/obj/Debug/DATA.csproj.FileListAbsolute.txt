@@ -1,0 +1,100 @@
+C:\Users\bakke\OneDrive\Documents\Visual Studio 2015\Projects\CGA\Data\obj\Debug\DATA.csprojResolveAssemblyReference.cache
+C:\Users\bakke\OneDrive\Documents\Visual Studio 2015\Projects\CGA\Data\bin\Debug\Data.dll.config
+C:\Users\bakke\OneDrive\Documents\Visual Studio 2015\Projects\CGA\Data\bin\Debug\Data.dll
+C:\Users\bakke\OneDrive\Documents\Visual Studio 2015\Projects\CGA\Data\bin\Debug\Data.pdb
+C:\Users\bakke\OneDrive\Documents\Visual Studio 2015\Projects\CGA\Data\bin\Debug\Domain.dll
+C:\Users\bakke\OneDrive\Documents\Visual Studio 2015\Projects\CGA\Data\bin\Debug\EntityFramework.dll
+C:\Users\bakke\OneDrive\Documents\Visual Studio 2015\Projects\CGA\Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bakke\OneDrive\Documents\Visual Studio 2015\Projects\CGA\Data\bin\Debug\MySql.Data.dll
+C:\Users\bakke\OneDrive\Documents\Visual Studio 2015\Projects\CGA\Data\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\bakke\OneDrive\Documents\Visual Studio 2015\Projects\CGA\Data\bin\Debug\Domain.pdb
+C:\Users\bakke\OneDrive\Documents\Visual Studio 2015\Projects\CGA\Data\bin\Debug\EntityFramework.xml
+C:\Users\bakke\OneDrive\Documents\Visual Studio 2015\Projects\CGA\Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bakke\OneDrive\Documents\Visual Studio 2015\Projects\CGA\Data\obj\Debug\Data.dll
+C:\Users\bakke\OneDrive\Documents\Visual Studio 2015\Projects\CGA\Data\obj\Debug\Data.pdb
+C:\Users\ahmed\Desktop\CGA.NET-master\Data\bin\Debug\Data.dll.config
+C:\Users\ahmed\Desktop\CGA.NET-master\Data\bin\Debug\Data.dll
+C:\Users\ahmed\Desktop\CGA.NET-master\Data\bin\Debug\Data.pdb
+C:\Users\ahmed\Desktop\CGA.NET-master\Data\bin\Debug\Domain.dll
+C:\Users\ahmed\Desktop\CGA.NET-master\Data\bin\Debug\EntityFramework.dll
+C:\Users\ahmed\Desktop\CGA.NET-master\Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ahmed\Desktop\CGA.NET-master\Data\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\ahmed\Desktop\CGA.NET-master\Data\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\ahmed\Desktop\CGA.NET-master\Data\bin\Debug\Microsoft.Owin.dll
+C:\Users\ahmed\Desktop\CGA.NET-master\Data\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ahmed\Desktop\CGA.NET-master\Data\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\ahmed\Desktop\CGA.NET-master\Data\bin\Debug\MySql.Data.dll
+C:\Users\ahmed\Desktop\CGA.NET-master\Data\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\ahmed\Desktop\CGA.NET-master\Data\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ahmed\Desktop\CGA.NET-master\Data\bin\Debug\Owin.dll
+C:\Users\ahmed\Desktop\CGA.NET-master\Data\bin\Debug\Domain.pdb
+C:\Users\ahmed\Desktop\CGA.NET-master\Data\bin\Debug\EntityFramework.xml
+C:\Users\ahmed\Desktop\CGA.NET-master\Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ahmed\Desktop\CGA.NET-master\Data\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\ahmed\Desktop\CGA.NET-master\Data\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\ahmed\Desktop\CGA.NET-master\Data\bin\Debug\Microsoft.Owin.xml
+C:\Users\ahmed\Desktop\CGA.NET-master\Data\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ahmed\Desktop\CGA.NET-master\Data\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\ahmed\Desktop\CGA.NET-master\Data\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ahmed\Desktop\CGA.NET-master\Data\obj\Debug\DATA.csprojResolveAssemblyReference.cache
+C:\Users\ahmed\Desktop\CGA.NET-master\Data\obj\Debug\Data.dll
+C:\Users\ahmed\Desktop\CGA.NET-master\Data\obj\Debug\Data.pdb
+C:\Users\ahmed\Desktop\CGA.NET-master\Data\bin\Debug\RestSharp.dll
+C:\Users\ahmed\Desktop\CGA.NET-master\Data\bin\Debug\itextsharp.dll
+C:\Users\ahmed\Desktop\CGA.NET-master\Data\bin\Debug\PagedList.dll
+C:\Users\ahmed\Desktop\CGA.NET-master\Data\bin\Debug\PagedList.Mvc.dll
+C:\Users\ahmed\Desktop\CGA.NET-master\Data\bin\Debug\itextsharp.xml
+C:\Users\ahmed\Desktop\CGA.NET-master\Data\bin\Debug\PagedList.xml
+C:\Users\ahmed\Desktop\CGA.NET-master\Data\bin\Debug\PagedList.Mvc.xml
+C:\Users\ahmed\Desktop\CGA.NET-master\Data\obj\Debug\Data.Migrations.test.resources
+C:\Users\ahmed\Desktop\CGA.NET-master\Data\obj\Debug\DATA.csproj.GenerateResource.Cache
+C:\Users\ahmed\Desktop\CGA.NET-master\Data\bin\Debug\System.Net.Http.dll
+C:\Users\ahmed\Desktop\CGA.NET-master\Data\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\ahmed\Desktop\CGA.NET-master\Data\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\ahmed\Desktop\CGA.NET-master\Data\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\ahmed\Desktop\CGA.NET-master\Data\bin\Debug\System.Net.Http.WebRequest.dll
+C:\Users\ahmed\Desktop\CGA.NET-master\Data\bin\Debug\System.Net.Http.xml
+C:\Users\ahmed\Desktop\CGA.NET-master\Data\bin\Debug\System.Net.Http.WebRequest.xml
+D:\AndroidStudioProjects\CGA.NET-master\Data\bin\Debug\Data.dll.config
+D:\AndroidStudioProjects\CGA.NET-master\Data\bin\Debug\Data.dll
+D:\AndroidStudioProjects\CGA.NET-master\Data\bin\Debug\Data.pdb
+D:\AndroidStudioProjects\CGA.NET-master\Data\bin\Debug\Domain.dll
+D:\AndroidStudioProjects\CGA.NET-master\Data\bin\Debug\EntityFramework.dll
+D:\AndroidStudioProjects\CGA.NET-master\Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\AndroidStudioProjects\CGA.NET-master\Data\bin\Debug\itextsharp.dll
+D:\AndroidStudioProjects\CGA.NET-master\Data\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+D:\AndroidStudioProjects\CGA.NET-master\Data\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\AndroidStudioProjects\CGA.NET-master\Data\bin\Debug\Microsoft.Owin.dll
+D:\AndroidStudioProjects\CGA.NET-master\Data\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+D:\AndroidStudioProjects\CGA.NET-master\Data\bin\Debug\Microsoft.Owin.Security.dll
+D:\AndroidStudioProjects\CGA.NET-master\Data\bin\Debug\MySql.Data.dll
+D:\AndroidStudioProjects\CGA.NET-master\Data\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\AndroidStudioProjects\CGA.NET-master\Data\bin\Debug\Newtonsoft.Json.dll
+D:\AndroidStudioProjects\CGA.NET-master\Data\bin\Debug\Owin.dll
+D:\AndroidStudioProjects\CGA.NET-master\Data\bin\Debug\PagedList.dll
+D:\AndroidStudioProjects\CGA.NET-master\Data\bin\Debug\PagedList.Mvc.dll
+D:\AndroidStudioProjects\CGA.NET-master\Data\bin\Debug\RestSharp.dll
+D:\AndroidStudioProjects\CGA.NET-master\Data\bin\Debug\System.Net.Http.dll
+D:\AndroidStudioProjects\CGA.NET-master\Data\bin\Debug\System.Net.Http.Extensions.dll
+D:\AndroidStudioProjects\CGA.NET-master\Data\bin\Debug\System.Net.Http.Formatting.dll
+D:\AndroidStudioProjects\CGA.NET-master\Data\bin\Debug\System.Net.Http.Primitives.dll
+D:\AndroidStudioProjects\CGA.NET-master\Data\bin\Debug\System.Net.Http.WebRequest.dll
+D:\AndroidStudioProjects\CGA.NET-master\Data\bin\Debug\Domain.pdb
+D:\AndroidStudioProjects\CGA.NET-master\Data\bin\Debug\EntityFramework.xml
+D:\AndroidStudioProjects\CGA.NET-master\Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\AndroidStudioProjects\CGA.NET-master\Data\bin\Debug\itextsharp.xml
+D:\AndroidStudioProjects\CGA.NET-master\Data\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+D:\AndroidStudioProjects\CGA.NET-master\Data\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\AndroidStudioProjects\CGA.NET-master\Data\bin\Debug\Microsoft.Owin.xml
+D:\AndroidStudioProjects\CGA.NET-master\Data\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+D:\AndroidStudioProjects\CGA.NET-master\Data\bin\Debug\Microsoft.Owin.Security.xml
+D:\AndroidStudioProjects\CGA.NET-master\Data\bin\Debug\Newtonsoft.Json.xml
+D:\AndroidStudioProjects\CGA.NET-master\Data\bin\Debug\PagedList.xml
+D:\AndroidStudioProjects\CGA.NET-master\Data\bin\Debug\PagedList.Mvc.xml
+D:\AndroidStudioProjects\CGA.NET-master\Data\bin\Debug\System.Net.Http.xml
+D:\AndroidStudioProjects\CGA.NET-master\Data\bin\Debug\System.Net.Http.WebRequest.xml
+D:\AndroidStudioProjects\CGA.NET-master\Data\obj\Debug\DATA.csprojResolveAssemblyReference.cache
+D:\AndroidStudioProjects\CGA.NET-master\Data\obj\Debug\Data.dll
+D:\AndroidStudioProjects\CGA.NET-master\Data\obj\Debug\Data.pdb
+D:\AndroidStudioProjects\CGA.NET-master\Data\obj\Debug\Data.Migrations.test.resources
+D:\AndroidStudioProjects\CGA.NET-master\Data\obj\Debug\DATA.csproj.GenerateResource.Cache
